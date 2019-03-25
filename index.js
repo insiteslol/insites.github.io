@@ -191,7 +191,7 @@
      */
     Runner.sounds = {
         BUTTON_PRESS: 'offline-sound-press',
-        HIT: 'offline-sound-hit',
+        HIT: 'N.mp3',
         SCORE: 'offline-sound-reached'
     };
 
