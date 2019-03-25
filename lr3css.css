@@ -7,14 +7,3 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
-canvas {
-    position: fixed;
-    left: 270px;
-    top: 90px;
-    border:1px solid #FFFFFF;
-    background-color: #FFFFFF;
-}
-body {
-  background: #FFFFFF;
-}
